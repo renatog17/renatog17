@@ -1,8 +1,13 @@
-### Hi there 👋
+# Olá, eu sou o Renato! 👋
 
+Sou um engenheiro de software formado e apaixonado por desenvolvimento de software.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatog17&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatog17&show_icons=true)
+## Linguagens e Tecnologias
+
+- Java ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+- Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 <!--
 **renatog17/renatog17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
