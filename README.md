@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatog17)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatog17&show_icons=true)
 <!--
 **renatog17/renatog17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
