@@ -1,6 +1,4 @@
-# Olá, eu sou o Renato! 👋
-
-Sou um engenheiro de software formado e apaixonado por desenvolvimento de software.
+# Hi, I'm Renato! 👋
 
 ![Java](https://img.shields.io/badge/-Java-FF8000?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
