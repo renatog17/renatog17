@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Programming Languages and Tools</h3>
 
 ###
 
