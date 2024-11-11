@@ -16,6 +16,19 @@
 
 ###
 
+<h3 align="left">🌐 Languages I Speak</h3>
+
+###
+
+<p align="left">
+  - 🇧🇷 Native Portuguese speaker<br>
+  - 🇬🇧 Fluent in English<br>
+  - 🇪🇸 Intermediate knowledge in Spanish<br>
+  - 🇷🇺 Beginner in Russian
+</p>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
