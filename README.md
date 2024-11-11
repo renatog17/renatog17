@@ -19,12 +19,11 @@
 <h3 align="left">🌐 Languages I Speak</h3>
 
 ###
-
 <p align="left">
-  - 🇧🇷 Native Portuguese speaker<br>
-  - 🇬🇧 Fluent in English<br>
-  - 🇪🇸 Intermediate knowledge in Spanish<br>
-  - 🇷🇺 Beginner in Russian
+  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@latest/svg/br.svg" width="20"/> Native Portuguese speaker<br>
+  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@latest/svg/gb.svg" width="20"/> Fluent in English<br>
+  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@latest/svg/es.svg" width="20"/> Intermediate knowledge in Spanish<br>
+  - <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@latest/svg/ru.svg" width="20"/> Beginner in Russian
 </p>
 
 ###
