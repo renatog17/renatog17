@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Renato from Brazil<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Spanish and I'm fluent in English<br>- ⚡ In my free time I like to study Russian, play Lego with my nephew and ride my bike</p>
+<p align="left">I'm Renato from Brazil<br><br>- 🔭 I’m a Software Engineer<br>- 📚 I'm currently learning Spanish and I'm fluent in English<br>- ⚡ In my free time I like to study Russian, play Lego with my nephew and ride my bike</p>
 
 ###
 
